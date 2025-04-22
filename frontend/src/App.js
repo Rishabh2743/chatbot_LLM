@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Chatbotui from './chatbotUI'; // Make sure this matches the filename exactly
+import Chatbotui from './chatbotUI'; 
 
 function App() {
   return (
